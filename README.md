@@ -25,7 +25,7 @@ Persistencia de Mensajes: Los mensajes enviados se muestran en tiempo real dentr
 
 ![Error o bug](./public/bug%20o%20error.jpeg).
 
--Tuve que usar la inteligencia articial, ya que se me hizo dificil poder conectar el componente `ChatInteractivo`. Por eso no hice el tercer componente, la idea principal era hacer un componente para la ventana del usuario, la del chat general y renderizar todo en app. "No logrado   :(". Tambien para que el texto de cada usuario quedara para lados diferentes. 
+-Tuve que usar la inteligencia articial, ya que se me hizo dificil poder conectar el componente `ChatInteractivo`. Por eso no hice el tercer componente, la idea principal era hacer un componente para la ventana del usuario, la del chat general y renderizar todo en app. "No logrado". Tambien para que el texto de cada usuario quedara para lados diferentes.
 -$Emit
 
 -La api Random User igual fue algo compleja, ya que habia que colocarle un extra en el URL :
@@ -37,4 +37,4 @@ Persistencia de Mensajes: Los mensajes enviados se muestran en tiempo real dentr
 ### Cosas mas sencillas
 Las directivas, props, bindear.
 ### Nota
-¡Se aceptan feedbacks!
+¡Se acepta feedbacks!
