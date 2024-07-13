@@ -37,4 +37,4 @@ Persistencia de Mensajes: Los mensajes enviados se muestran en tiempo real dentr
 ### Cosas mas sencillas
 Las directivas, props, bindear.
 ### Nota
-¡Se acepta feedbacks!
+¡Se acepta feedback!
